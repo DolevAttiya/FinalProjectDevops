@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Simple JSP Application</title>
+		<title>Rotem The Queen was here 13.9.2020</title>
 	</head>
 	<body>
 		<h1>Hello world!</h1>
